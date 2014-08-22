@@ -1,0 +1,63 @@
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00824,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00824,1,PROTEIN SYNTHESIS,cytoplasm.
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00825,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00825,1,PROTEIN SYNTHESIS,cytoplasm.
+G234065,Non-Essential,ATPases,?,?,?,1,"CELL RESCUE, DEFENSE, CELL DEATH AND AGEING",cytoplasm.
+G234065,Non-Essential,ATPases,?,?,?,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234065,Non-Essential,ATPases,?,?,?,1,CELLULAR TRANSPORT AND TRANSPORTMECHANISMS,cytoplasm.
+G234065,Non-Essential,ATPases,?,?,?,1,PROTEIN DESTINATION,cytoplasm.
+G234065,Non-Essential,Molecular chaperones,?,?,?,1,"CELL RESCUE, DEFENSE, CELL DEATH AND AGEING",cytoplasm.
+G234065,Non-Essential,Molecular chaperones,?,?,?,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234065,Non-Essential,Molecular chaperones,?,?,?,1,CELLULAR TRANSPORT AND TRANSPORTMECHANISMS,cytoplasm.
+G234065,Non-Essential,Molecular chaperones,?,?,?,1,PROTEIN DESTINATION,cytoplasm.
+G234070,Non-Essential,ATPases,Cytoskeleton,Mating and sporulation defects,PS00017,1,"CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS",cytoskeleton.
+G234070,Non-Essential,ATPases,Cytoskeleton,Mating and sporulation defects,PS00017,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoskeleton.
+G234070,Non-Essential,ATPases,Cytoskeleton,Mating and sporulation defects,PS00017,1,CELLULAR TRANSPORT AND TRANSPORTMECHANISMS,cytoskeleton.
+G234070,Non-Essential,Motorproteins,Cytoskeleton,Mating and sporulation defects,PS00017,1,"CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS",cytoskeleton.
+G234070,Non-Essential,Motorproteins,Cytoskeleton,Mating and sporulation defects,PS00017,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoskeleton.
+G234070,Non-Essential,Motorproteins,Cytoskeleton,Mating and sporulation defects,PS00017,1,CELLULAR TRANSPORT AND TRANSPORTMECHANISMS,cytoskeleton.
+G234073,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,PS00013,1,"CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS",cytoplasm.
+G234073,Non-Essential,Cyclins,Cyclin-CDK (Cyclin-dependent kinases) complexes,Cell cycle defects,PS00013,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234101,Non-Essential,ATPases,Respiration chain complexes,"Auxotrophies, carbon and",PS00152,2,CELLULAR TRANSPORT AND TRANSPORTMECHANISMS,mitochondria.
+G234101,Non-Essential,ATPases,Respiration chain complexes,"Auxotrophies, carbon and",PS00152,2,ENERGY,mitochondria.
+G234101,Non-Essential,ATPases,Respiration chain complexes,"Auxotrophies, carbon and",PS00152,2,IONIC HOMEOSTASIS,mitochondria.
+G234101,Non-Essential,ATPases,Respiration chain complexes,"Auxotrophies, carbon and",PS00152,2,TRANSPORT FACILITATION,mitochondria.
+G234102,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00038,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),nucleus.
+G234102,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00038,2,METABOLISM,nucleus.
+G234102,Non-Essential,Transcription factors,Transcription complexes/Transcriptosome,?,PS00038,2,TRANSCRIPTION,nucleus.
+G234103,Essential,Protein Kinases,?,Cell cycle defects,PS00107,2,"CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS",cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell cycle defects,PS00107,2,"CELL RESCUE, DEFENSE, CELL DEATH AND AGEING",cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell cycle defects,PS00107,2,CELLULAR COMMUNICATION/SIGNAL TRANSDUCTION,cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell cycle defects,PS00107,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell cycle defects,PS00479,2,"CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS",cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell cycle defects,PS00479,2,"CELL RESCUE, DEFENSE, CELL DEATH AND AGEING",cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell cycle defects,PS00479,2,CELLULAR COMMUNICATION/SIGNAL TRANSDUCTION,cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell cycle defects,PS00479,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,2,"CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS",cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,2,"CELL RESCUE, DEFENSE, CELL DEATH AND AGEING",cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,2,CELLULAR COMMUNICATION/SIGNAL TRANSDUCTION,cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00107,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00479,2,"CELL GROWTH, CELL DIVISION AND DNA SYNTHESIS",cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00479,2,"CELL RESCUE, DEFENSE, CELL DEATH AND AGEING",cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00479,2,CELLULAR COMMUNICATION/SIGNAL TRANSDUCTION,cytoplasm.
+G234103,Essential,Protein Kinases,?,Cell morphology and organelle mutants,PS00479,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234106,?,Histones,Nucleosomal protein complex,Cell cycle defects,?,2,TRANSCRIPTION,nucleus.
+G234106,?,Histones,Nucleosomal protein complex,Cell morphology and organelle mutants,?,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),nucleus.
+G234106,?,Histones,Nucleosomal protein complex,Cell morphology and organelle mutants,?,2,TRANSCRIPTION,nucleus.
+G234106,?,Histones,Nucleosomal protein complex,Conditional phenotypes,?,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),nucleus.
+G234106,?,Histones,Nucleosomal protein complex,Conditional phenotypes,?,2,TRANSCRIPTION,nucleus.
+G234106,?,Histones,Nucleosomal protein complex,Nucleic acid metabolism defects,?,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),nucleus.
+G234106,?,Histones,Nucleosomal protein complex,Nucleic acid metabolism defects,?,2,TRANSCRIPTION,nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,"Auxotrophies, carbon and",PS00322,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,"Auxotrophies, carbon and",PS00322,2,TRANSCRIPTION,nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,"Auxotrophies, carbon and",PS00959,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,"Auxotrophies, carbon and",PS00959,2,TRANSCRIPTION,nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,Cell morphology and organelle mutants,PS00322,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,Cell morphology and organelle mutants,PS00322,2,TRANSCRIPTION,nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,Cell morphology and organelle mutants,PS00959,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,Cell morphology and organelle mutants,PS00959,2,TRANSCRIPTION,nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,Nucleic acid metabolism defects,PS00322,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,Nucleic acid metabolism defects,PS00322,2,TRANSCRIPTION,nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,Nucleic acid metabolism defects,PS00959,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),nucleus.
+G234107,Non-Essential,Histones,Nucleosomal protein complex,Nucleic acid metabolism defects,PS00959,2,TRANSCRIPTION,nucleus.
+G234108,Non-Essential,Other kinases,?,?,PS00627,2,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.

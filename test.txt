@@ -1,0 +1,4 @@
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00824,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00824,1,PROTEIN SYNTHESIS,cytoplasm.
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00825,1,CELLULAR ORGANIZATION (proteins are localized to the corresponding organelle),cytoplasm.
+G234064,Essential,GTP/GDP-exchange factors (GEFs),Translation complexes,?,PS00825,1,PROTEIN SYNTHESIS,cytoplasm.
